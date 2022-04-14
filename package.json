@@ -5,6 +5,7 @@
     "request-promise": "^4.2.6"
   },
   "scripts": {
-    "cornellsp22": "node scrapers/ScrapeCornellSP22.js"
+    "cornellsp22": "node scrapers/ScrapeCornellSP22.js",
+    "cornellfa22": "node scrapers/ScrapeCornellFA22.js"
   }
 }
