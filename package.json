@@ -2,6 +2,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
     "csv-writer": "^1.6.0",
+    "graphql-request": "^4.3.0",
     "request-promise": "^4.2.6"
   },
   "scripts": {
